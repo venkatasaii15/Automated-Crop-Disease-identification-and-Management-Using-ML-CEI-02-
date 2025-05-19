@@ -1,4 +1,6 @@
 Automated Rice Disease identification and Management Using  Machine Learning
+
+
 VENKATA SAI REDDY K - 20211CEI0017
 SHAIK MANSOOR AHAMED ALI - 20211CEI0030
 KARTHIK KUMAR REDDY G - 20201CEI0037
